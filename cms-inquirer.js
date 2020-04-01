@@ -1,8 +1,17 @@
+
+
+
+
 var inquirer = require("inquirer");
 const Queries = require("./DB_Assests/dbqueries");
 
+
+
+
 const queries = new Queries();
 
+
+//main menu for inquirer prompts 
 var mainMenu = {
   message: "What would you like to do?",
   type: "list",
