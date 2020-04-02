@@ -1,11 +1,13 @@
+
+
 const mysql = require("mysql");
 
-module.exports = class DB_Queries {
+      module.exports = class DB_Queries {
   getEmployees(reIterate) {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -27,7 +29,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -50,7 +52,7 @@ module.exports = class DB_Queries {
         let con = mysql.createConnection({
           host: "127.0.0.1",
           user: "root",
-          password: "Password@2020",
+          password: "astaof15",
           database: "emsdb"
         });
 
@@ -76,7 +78,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -99,7 +101,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -123,7 +125,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -147,7 +149,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -173,7 +175,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -197,7 +199,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -212,7 +214,7 @@ module.exports = class DB_Queries {
           let con = mysql.createConnection({
             host: "127.0.0.1",
             user: "root",
-            password: "Password@2020",
+            password: "astaof15",
             database: "emsdb"
           });
 
@@ -256,7 +258,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -284,7 +286,7 @@ module.exports = class DB_Queries {
           let con = mysql.createConnection({
             host: "127.0.0.1",
             user: "root",
-            password: "Password@2020",
+            password: "astaof15",
             database: "emsdb"
           });
 
@@ -302,7 +304,7 @@ module.exports = class DB_Queries {
                 let con = mysql.createConnection({
                   host: "127.0.0.1",
                   user: "root",
-                  password: "Password@2020",
+                  password: "astaof15",
                   database: "emsdb"
                 });
 
@@ -364,7 +366,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -380,7 +382,7 @@ module.exports = class DB_Queries {
           let con = mysql.createConnection({
             host: "127.0.0.1",
             user: "root",
-            password: "Password@2020",
+            password: "astaof15",
             database: "emsdb"
           });
 
@@ -414,7 +416,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -432,7 +434,7 @@ module.exports = class DB_Queries {
         let con = mysql.createConnection({
           host: "127.0.0.1",
           user: "root",
-          password: "Password@2020",
+          password: "astaof15",
           database: "emsdb"
         });
 
@@ -462,7 +464,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -487,7 +489,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -507,7 +509,7 @@ module.exports = class DB_Queries {
           let con = mysql.createConnection({
             host: "127.0.0.1",
             user: "root",
-            password: "Password@2020",
+            password: "astaof15",
             database: "emsdb"
           });
 
@@ -535,7 +537,7 @@ module.exports = class DB_Queries {
     let con = mysql.createConnection({
       host: "127.0.0.1",
       user: "root",
-      password: "Password@2020",
+      password: "astaof15",
       database: "emsdb"
     });
 
@@ -553,7 +555,7 @@ module.exports = class DB_Queries {
           let con = mysql.createConnection({
             host: "127.0.0.1",
             user: "root",
-            password: "Password@2020",
+            password: "astaof15",
             database: "emsdb"
           });
 
